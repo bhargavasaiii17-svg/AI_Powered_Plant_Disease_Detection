@@ -1,0 +1,5 @@
+dataset/
+archive (2).zip
+report.pdf
+__pycache__/
+*.pyc
