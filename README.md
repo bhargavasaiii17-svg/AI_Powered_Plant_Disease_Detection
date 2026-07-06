@@ -69,18 +69,19 @@ The project is designed to support **smart agriculture** by helping farmers and 
 
 ## 🏠 Home Page
 
-```![Home Page](homepage.png)
-```
+![Home](homepage.png)
 
-## 🌿 Healthy Plant Prediction
+---
 
-```![Healthy](healthy.png)
-```
+## 🌿 Healthy Prediction
+
+![Healthy](healthy.png)
+
+---
 
 ## 🍂 Disease Prediction
 
-```![Disease](disease.png)
-```
+![Disease](disease.png)
 
 ---
 
