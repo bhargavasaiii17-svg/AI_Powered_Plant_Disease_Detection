@@ -224,13 +224,17 @@ streamlit run app.py
 
 # 👨‍💻 Author
 
-## Bhargav Sai
+## Bhargava Sai
 
 AI & Machine Learning Enthusiast
 
 GitHub
 
 https://github.com/bhargavasaiii17-svg
+
+LinkedIn
+
+https://www.linkedin.com/in/bhargava-sai-3a2b43349
 
 ---
 
